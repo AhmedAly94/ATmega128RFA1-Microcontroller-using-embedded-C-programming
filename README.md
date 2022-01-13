@@ -28,3 +28,4 @@ Task4: blinks the green led with the seconds counter
 Task5: Checks if the alarm is reached every 1000 ms
 
 An UML statechart matching the previous description is attached 
+![UML](https://user-images.githubusercontent.com/18249455/149311987-60a7a552-234d-4d47-95d1-dd8a6197242f.JPG)
